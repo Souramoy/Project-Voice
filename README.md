@@ -20,4 +20,6 @@ Glass is a powerful voice assistant designed to enhance your Windows experience.
 15. hugchat – Handles conversational interactions with the user.
 
 
-Author - Souramoy Shee     
+Author - Souramoy Shee 
+
+Enjoy 😉    
